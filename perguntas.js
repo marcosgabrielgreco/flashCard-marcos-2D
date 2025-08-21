@@ -4,17 +4,17 @@ criaCartao(
 'O HTML (Linguagem de Marcação de HiperTexto)'
 )
 criaCartao(
-'Programação',
-'O que é CSS?',
-'O CSS é uma linguagem de estilização.'
+'Geografia',
+'Qual é o menor país do mundo??',
+'Vaticano.'
 )
 criaCartao(
-'Programação',
-'O que é JavaScript?',
-'O JavaScript é uma linguagem de programação.'
+'Historia',
+'Em que ano ocorreu a Revolução Francesa??',
+'entre 1789 e 1799.'
 )
 criaCartao(
-'Programação',
+'Portugues',
 'O que é Front-end?',
 ' O Front-end compreende a parte visual de sites e aplicações.'
 )
