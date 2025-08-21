@@ -14,7 +14,7 @@ criaCartao(
 'entre 1789 e 1799.'
 )
 criaCartao(
-'Portugues',
+'Ingles',
 'O que é Front-end?',
 ' O Front-end compreende a parte visual de sites e aplicações.'
 )
