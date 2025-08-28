@@ -14,9 +14,9 @@ criaCartao(
 'entre 1789 e 1799.'
 )
 criaCartao(
-'Ingles',
-'O que é Front-ed?',
-' O Front-end compreende a parte visual de sites e aplicações.'
+'ciencias ',
+'qual o nome das plantas que dao lor e não frutos?',
+' são Pteridófitas que se reproduzem por esporos. .'
 )
 criaCartao(
 'Historia',
