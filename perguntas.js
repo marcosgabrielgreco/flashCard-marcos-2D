@@ -15,13 +15,13 @@ criaCartao(
 )
 criaCartao(
 'Ingles',
-'O que é Front-end?',
+'O que é Front-ed?',
 ' O Front-end compreende a parte visual de sites e aplicações.'
 )
 criaCartao(
-'Programação',
-'O que é Back-end?',
-'O Back-end compreende tudo aquilo que tem por trás de uma aplicação.'
+'Historia',
+'Quem foi luiz 16?',
+'Luís XVI (1754-1793) foi o último rei da França antes da Revolução Francesa, que o depôs em 1792 e o guilhotinou em 1793 por traição, sendo lembrado como um monarca que falhou em modernizar o país e se opôs às reformas revolucionárias. Sua execução em 21 de janeiro de 1793 marcou o fim da monarquia e o início da fase mais violenta da Revolução, conhecida como o Período do Terror. .'
 )
 criaCartao(
 'Programação',
