@@ -24,7 +24,7 @@ criaCartao(
 'Luís XVI (1754-1793) foi o último rei da França antes da Revolução Francesa, que o depôs em 1792 e o guilhotinou em 1793 . .'
 )
 criaCartao(
-'Programação',
-'O que é Full Stack?',
+'historia',
+'Quando o brasil foi descoberto?',
 
-'A Full Stack developer é uma pessoa que trabalha tanto com Front-end quanto com Back-end.')
+'22 de abril de 1500.')
