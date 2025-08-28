@@ -1,7 +1,7 @@
 criaCartao(
-'Programação',
-'O que é HTML?',
-'O HTML (Linguagem de Marcação de HiperTexto)'
+'geografia',
+'Qual pais tem maoir latitude?',
+' Canadá é o país que alcança a maior latitude, com o seu ponto mais a norte em 83° 07′ N'
 )
 criaCartao(
 'Geografia',
